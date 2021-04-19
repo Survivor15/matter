@@ -3,7 +3,7 @@
 	padding: 0;
 }
 body{
-	background: url(background.png) no-repeat;
+	background: url(../img/background.png) no-repeat;
 	background-size: cover;
 	
 }
@@ -94,13 +94,10 @@ body{
 	font-size: 14px;
 	color: #808080;
 }
-.middle_4_2 img{
-	height: 27px;
-}
-.middle_4_2{
-	position: absolute;
-	bottom: 78px;
-	right: 31px;
+.add{
+	height: 26px;
+	margin-top: 195px;
+	margin-left: 125px;
 }
 .footer{
 	display: flex;
